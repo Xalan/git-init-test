@@ -7,7 +7,13 @@ git-init-test
 
 * resource
 * schedule
-* scope
++ scope
+
+1. Form a team
+2. Plan for high level scope
+2. Plan for a release
+
+
 
 Aglie是快捷式
 --------------
