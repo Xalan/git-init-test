@@ -1,4 +1,8 @@
 git-init-test
 =============
 
-git-training
+Project management
+
+project -> Aglie , Scrum
+
+IOS/Android
