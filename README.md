@@ -17,6 +17,11 @@ Scrum是一種實作
 #### More miner
 ##### .....
 ###### ******
+
+> Resource is not finished
+
+>> so...
+
 <br/>
 <br/>
 IOS/Android
