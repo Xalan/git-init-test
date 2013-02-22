@@ -1,7 +1,8 @@
 git-init-test
 =============
 
-Project management
+專案管理分為Aglie,Scrum
+
 
 Aglie是快捷式
 --------------
