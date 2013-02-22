@@ -7,8 +7,8 @@ Project Mangement
 
 專案管理分為Aglie,Scrum
 
-* [Yahoo](http://www.yahoo.com)check availability
-* [pchome](http://www.pchome.com.tw)
+* [Yahoo](http://www.yahoo.com) check *availability*
+* [pchome](http://www.pchome.com.tw) **very** convenient
 
 # Project factor
 
