@@ -1,7 +1,14 @@
 git-init-test
 =============
 
+Project Mangement
+
+****
+
 專案管理分為Aglie,Scrum
+
+* [Yahoo](http://www.yahoo.com)check availability
+* [pchome](http://www.pchome.com.tw)
 
 # Project factor
 
@@ -32,7 +39,6 @@ Scrum是一種實作
 > Resource is not finished
 
 >> so...
-
 <br/>
 <br/>
 IOS/Android
