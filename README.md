@@ -3,6 +3,11 @@ git-init-test
 
 專案管理分為Aglie,Scrum
 
+# Project factor
+
+* resource
+* schedule
+* scope
 
 Aglie是快捷式
 --------------
